@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "IntegrationService.Controllers.IntegrationController",
+    "Method": "Get",
+    "RelativePath": "api/integrated-data",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

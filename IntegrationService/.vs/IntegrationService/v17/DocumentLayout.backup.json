@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sicimic\\repos\\Task\\IntegrationService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C25F3A57-F4B4-1B9A-ED49-E6441C14BAB7}|IntegrationService.csproj|c:\\users\\sicimic\\repos\\task\\integrationservice\\controllers\\integrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C25F3A57-F4B4-1B9A-ED49-E6441C14BAB7}|IntegrationService.csproj|solutionrelative:controllers\\integrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C25F3A57-F4B4-1B9A-ED49-E6441C14BAB7}|IntegrationService.csproj|c:\\users\\sicimic\\repos\\task\\integrationservice\\helpers\\soaphelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C25F3A57-F4B4-1B9A-ED49-E6441C14BAB7}|IntegrationService.csproj|solutionrelative:helpers\\soaphelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C25F3A57-F4B4-1B9A-ED49-E6441C14BAB7}|IntegrationService.csproj|c:\\users\\sicimic\\repos\\task\\integrationservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C25F3A57-F4B4-1B9A-ED49-E6441C14BAB7}|IntegrationService.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C25F3A57-F4B4-1B9A-ED49-E6441C14BAB7}|IntegrationService.csproj|c:\\users\\sicimic\\repos\\task\\integrationservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C25F3A57-F4B4-1B9A-ED49-E6441C14BAB7}|IntegrationService.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sicimic\\repos\\Task\\IntegrationService\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\sicimic\\repos\\Task\\IntegrationService\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-18T16:04:54.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sicimic\\repos\\Task\\IntegrationService\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\sicimic\\repos\\Task\\IntegrationService\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T15:23:50.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IntegrationController.cs",
+              "DocumentMoniker": "C:\\Users\\sicimic\\repos\\Task\\IntegrationService\\Controllers\\IntegrationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\IntegrationController.cs",
+              "ToolTip": "C:\\Users\\sicimic\\repos\\Task\\IntegrationService\\Controllers\\IntegrationController.cs",
+              "RelativeToolTip": "Controllers\\IntegrationController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAADwvxsAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T15:22:45.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SoapHelper.cs",
+              "DocumentMoniker": "C:\\Users\\sicimic\\repos\\Task\\IntegrationService\\Helpers\\SoapHelper.cs",
+              "RelativeDocumentMoniker": "Helpers\\SoapHelper.cs",
+              "ToolTip": "C:\\Users\\sicimic\\repos\\Task\\IntegrationService\\Helpers\\SoapHelper.cs",
+              "RelativeToolTip": "Helpers\\SoapHelper.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwBwAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T15:21:14.594Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

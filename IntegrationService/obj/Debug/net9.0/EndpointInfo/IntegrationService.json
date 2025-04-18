@@ -1,0 +1,22 @@
+{
+  "openapi": "3.0.4",
+  "info": {
+    "title": "IntegrationService",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/integrated-data": {
+      "get": {
+        "tags": [
+          "Integration"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}

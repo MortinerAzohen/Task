@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "+wr2OmcAaZOKGewB6McjZ55QNOFEvO29ccF+D1EaZ+8=",
+  "Source": "IntegrationService",
+  "BasePath": "_content/IntegrationService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
